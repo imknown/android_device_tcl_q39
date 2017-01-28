@@ -1,11 +1,11 @@
-**DEVELOPMENT IS HALTED**
+**COMPILE APERIODICALLY**
 
 Device tree for TCL M3G
 
-Author: ontherunvaro
+Author: imknown
 
-Original Author: FlourMo
+Original Author: FlourMo, ontherunvaro
 
-Fork of TCL-M3G-dev/android_device_tcl_q39
+Fork of ontherunvaro/android_device_tcl_q39
 
 This branch is for building CyanogenMod 12.1.
