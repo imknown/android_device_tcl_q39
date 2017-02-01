@@ -419,7 +419,4 @@
          performance profiles  -->
     <string name="config_perf_profile_default_entry" translatable="false">1</string>
 
-    <!-- Flag specifying whether VoLTE is available on device -->
-    <bool name="config_device_volte_available">true</bool>
-
 </resources>
